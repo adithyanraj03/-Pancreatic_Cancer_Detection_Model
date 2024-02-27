@@ -3,7 +3,7 @@ This repository contains a Python notebook for a pancreatic cancer detection mod
 
 Dataset Information
 Dataset Name: Debernardi et al 2020 data.csv(https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003489)
-Number of Patients: 590
+Number of Patients: 590 \n
 Healthy controls: 183
 Patients with non-cancerous pancreatic conditions (e.g., chronic pancreatitis): 208
 Patients with pancreatic cancer: 199
