@@ -2,7 +2,7 @@
 This repository contains a Python notebook for a pancreatic cancer detection model. The dataset used in this project is sourced from the open-access paper published on December 10, 2020: Link to Paper
 
 Dataset Information
-Dataset Name: Debernardi et al 2020 data.csv
+Dataset Name: Debernardi et al 2020 data.csv(https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003489)
 Number of Patients: 590
 Healthy controls: 183
 Patients with non-cancerous pancreatic conditions (e.g., chronic pancreatitis): 208
